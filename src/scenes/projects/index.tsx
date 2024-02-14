@@ -16,7 +16,7 @@ const projects: Array<ProjectType> =[
         title: "Redesigned blueBikes",
         description:
           "Revamped the Blue bikes app on Figma by enhancing user interactions, and introducing new features to create a more user-centric and feature-rich experience.",
-        linkp: "https://www.figma.com/proto/okMlddDV72wI6A5aciHIMR/Untitled?type=design&node-id=1-2&t=2ty2A2ubrhVYvVVk-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2",
+        linkp: "https://www.figma.com/proto/1YQ7AeKnEXw3LrLNPgsgPU/Bluebikes-redesign?type=design&node-id=16-12&t=IJ1oMBKXpgHytxQh-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=16%3A12&show-proto-sidebar=1",
       },
       {
         icon: <GlobeAmericasIcon className="h-6 w-6 text-white" />,
